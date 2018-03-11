@@ -2,6 +2,7 @@
 layout: post
 title:  "Bringing TVM into TensorFlow for Optimizing Neural Machine Translation on GPU"
 date:   2018-03-11
+author: Lanbo Li, Guoping Long, Jun Yang
 ---
 
 # Background
